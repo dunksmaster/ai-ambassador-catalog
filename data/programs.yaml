@@ -1,0 +1,354 @@
+# Public catalog of AI lab, AI tool and dev-tool ambassador programs.
+# Schema: ../schema.md. Empty string = unknown (never guessed).
+
+programs:
+- name: Adaption Ambassadors
+  company: Adaption Labs
+  category: AI lab
+  apply_url: https://adaptionlabs.ai/ambassadors-application
+  program_url: https://adaptionlabs.ai/blog/ambassador-program
+  perks: Credits, monetary support for research/startup programs, meetup grants, betas, private Discord, gear
+  eligibility: Worldwide; prioritises unrepresented countries; 6-month commitment
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Claude Community Ambassadors
+  company: Anthropic
+  category: AI lab
+  apply_url: https://claude.com/community/ambassadors
+  program_url: https://claude.com/community/ambassadors
+  perks: Credits and event support
+  eligibility: Global
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Kimi Ambassador Program
+  company: Moonshot AI (Kimi)
+  category: AI lab
+  apply_url: https://www.kimi.ai/lp/kimi-ambassador
+  program_url: https://www.kimi.ai/lp/kimi-ambassador
+  perks: Direct collaboration with the Kimi product team
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Mistral AI Ambassadors
+  company: Mistral AI
+  category: AI lab
+  apply_url: https://docs.google.com/forms/d/e/1FAIpQLSdBSiRzm2xBpMszB_9fBixJNyKdGnPMj99DtZbagHMdHgkGUg/viewform
+  program_url: https://docs.mistral.ai/resources/ambassadors
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Sarvam Champions
+  company: Sarvam AI
+  category: AI lab
+  apply_url: https://www.sarvam.ai/sarvam-champions#apply
+  program_url: https://www.sarvam.ai/sarvam-champions
+  perks: Welcome kit, private channel, early model access, credits, mentorship
+  eligibility: Creator track open anywhere; India-centric
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: AAIF Agentic AI Ambassadors
+  company: Agentic AI Foundation
+  category: AI tool
+  apply_url: https://aaif.io/learn-more-about-the-program
+  program_url: https://aaif.io/learn-more-about-the-program
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: AKOOL Creator Partner Program
+  company: AKOOL
+  category: AI tool
+  apply_url: https://akool.com/creator-partner-program
+  program_url: https://akool.com/creator-partner-program
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Cerebras Ambassadors
+  company: Cerebras
+  category: AI tool
+  apply_url: https://www.cerebras.ai/ambassadors
+  program_url: https://www.cerebras.ai/ambassadors
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Cursor Ambassadors
+  company: Anysphere (Cursor)
+  category: AI tool
+  apply_url: https://cursor.com/ambassadors
+  program_url: https://cursor.com/ambassadors
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: DeepLearning.AI Community Leaders (Pie & AI)
+  company: DeepLearning.AI
+  category: AI tool
+  apply_url: https://www.deeplearning.ai/ambassador/
+  program_url: https://www.deeplearning.ai/ambassador/
+  perks: ''
+  eligibility: Global
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: ElevenLabs Ambassadors
+  company: ElevenLabs
+  category: AI tool
+  apply_url: https://elevenlabs.io/ambassador
+  program_url: https://elevenlabs.io/ambassador
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Factory Guild
+  company: Factory
+  category: AI tool
+  apply_url: https://factory.com/ambassador
+  program_url: https://factory.com/ambassador
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: GMI Clouders
+  company: GMI Cloud
+  category: AI tool
+  apply_url: https://www.gmicloud.ai/en/company/ambassador-program
+  program_url: https://www.gmicloud.ai/en/company/ambassador-program
+  perks: 'Creator track: early access, credits, 20% affiliate. Community track: event budget, monthly model credits, swag'
+  eligibility: Global; no minimum audience
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Kiro Ambassadors
+  company: Kiro (AWS)
+  category: AI tool
+  apply_url: https://kiro.dev/ambassadors/apply/
+  program_url: https://kiro.dev/ambassadors/
+  perks: Credits and swag
+  eligibility: Global
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Learmo Ambassador Program
+  company: Learmo
+  category: AI tool
+  apply_url: https://learmo.com/ambassadors
+  program_url: https://learmo.com/ambassadors
+  perks: Certificate, badge, toolkit, private community, referral rewards where available (unpaid)
+  eligibility: Global; university and community tracks
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Manus Fellows
+  company: Manus
+  category: AI tool
+  apply_url: https://manus.im/fellows
+  program_url: https://manus.im/fellows
+  perks: Event stipends, swag, Manus credits, team access, early access
+  eligibility: Global
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: MemMachine Student Ambassador
+  company: MemVerge (MemMachine)
+  category: AI tool
+  apply_url: https://memmachine.ai/community-student-ambassador-program/
+  program_url: https://memmachine.ai/community-student-ambassador-program/
+  perks: Certificate, swag, mentorship, early access; top ambassadors may get referrals/internships
+  eligibility: 'Students worldwide; apply via Discord #ambassadors'
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: MuleRun Ambassador Program
+  company: MuleRun
+  category: AI tool
+  apply_url: https://ambassadors.mulerun.com/
+  program_url: https://ambassadors.mulerun.com/
+  perks: Event cost reimbursement (venue, catering), monthly credits, swag, travel for regional/global tiers
+  eligibility: Global; must host MuleRun-themed events
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Qualcomm Ambassador Program
+  company: Qualcomm (with Arduino & Edge Impulse)
+  category: AI tool
+  apply_url: https://forms.cloud.microsoft/r/V33wFk6kH8
+  program_url: https://www.qualcomm.com/developer/qualcomm-ambassador-program
+  perks: Badges, early hardware/software access, event invites, paid content-creation projects
+  eligibility: Worldwide except restricted countries; 18+
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Recraft Creator Partner Program
+  company: Recraft
+  category: AI tool
+  apply_url: https://www.recraft.ai/creator-program
+  program_url: https://www.recraft.ai/creator-program
+  perks: Credits, early model access, private team channel, featured distribution (no cash)
+  eligibility: 18+; at least 1 Recraft post per month
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Retell AI Champions
+  company: Retell AI
+  category: AI tool
+  apply_url: https://champions.retellai.com/
+  program_url: https://champions.retellai.com/
+  perks: Team access, early access, champion channel, hiring preference, speaking slots, certification vouchers
+  eligibility: Global; a few months of hands-on Retell use recommended
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: VibeCity (city chapter lead)
+  company: Emergent
+  category: AI tool
+  apply_url: https://vibecity.emergent.social/
+  program_url: https://vibecity.emergent.social/
+  perks: Brand, credits, playbook, amplification and support for monthly local AI-building events
+  eligibility: Global, city-based
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Zo Ambassadors
+  company: Zo Computer
+  category: AI tool
+  apply_url: https://www.zo.computer/ambassador
+  program_url: https://www.zo.computer/ambassador
+  perks: $100 Zo credits monthly, $10 per referred user, merch, event funding
+  eligibility: Not restricted; must already use Zo
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Agora Ambassador Program
+  company: Agora
+  category: dev tool
+  apply_url: https://explore.agora.io/agora-ambassador-program
+  program_url: https://explore.agora.io/agora-ambassador-program
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Cline Ambassador Program
+  company: Cline
+  category: dev tool
+  apply_url: https://forms.gle/3ZoHtwtDmyNqAosYA
+  program_url: https://forms.gle/3ZoHtwtDmyNqAosYA
+  perks: Early access
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Convex Developer Champions
+  company: Convex
+  category: dev tool
+  apply_url: https://www.convex.dev/champions/apply
+  program_url: https://www.convex.dev/champions
+  perks: Complimentary Professional plan, champion perks
+  eligibility: Global; Convex users
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Firecrawl Firestarters
+  company: Firecrawl
+  category: dev tool
+  apply_url: https://m1ljvx32jtt.typeform.com/to/pNrEUJBQ
+  program_url: https://www.firecrawl.dev/firestarters
+  perks: Free Standard plan while active, early access, private Slack
+  eligibility: Firecrawl users
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: GitKraken Ambassadors
+  company: GitKraken
+  category: dev tool
+  apply_url: https://www.gitkraken.com/ambassador#apply-now
+  program_url: https://www.gitkraken.com/ambassador
+  perks: Merch, product perks
+  eligibility: Global
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: HazelJS University Ambassadors
+  company: HazelJS
+  category: dev tool
+  apply_url: https://hazeljs.ai/ambassadors
+  program_url: https://hazeljs.ai/ambassadors
+  perks: ''
+  eligibility: University students
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: n8n Ambassadors
+  company: n8n
+  category: dev tool
+  apply_url: https://n8n.io/ambassadors
+  program_url: https://n8n.io/ambassadors
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Pinecone Pioneers
+  company: Pinecone
+  category: dev tool
+  apply_url: https://www.pinecone.io/community/pinecone-pioneers/
+  program_url: https://www.pinecone.io/community/pinecone-pioneers/
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: Qdrant Stars
+  company: Qdrant
+  category: dev tool
+  apply_url: https://forms.gle/vTuy8Fe9RFdt4SiB9
+  program_url: https://qdrant.tech/stars/
+  perks: Certificate, swag, travel fund, beta access
+  eligibility: Global; Qdrant contributors
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Raycast Ambassadors
+  company: Raycast
+  category: dev tool
+  apply_url: https://raycastapp.typeform.com/to/byjEmQCE
+  program_url: https://www.raycast.com/ambassadors
+  perks: Pro + AI free, event funding, merch
+  eligibility: Global
+  deadline: rolling
+  status: live
+  last_checked: '2026-10-12'
+- name: Replit Community Ambassadors
+  company: Replit
+  category: dev tool
+  apply_url: https://community-hub.replit.app/ambassadors/
+  program_url: https://community-hub.replit.app/ambassadors/
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
+- name: W&B Authors Program
+  company: Weights & Biases
+  category: dev tool
+  apply_url: https://wandb.ai/site/company/author-program/
+  program_url: https://wandb.ai/site/company/author-program/
+  perks: ''
+  eligibility: ''
+  deadline: ''
+  status: live
+  last_checked: '2026-10-12'
